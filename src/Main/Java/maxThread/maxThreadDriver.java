@@ -1,4 +1,4 @@
-package Main.Java;
+package Main.Java.maxThread;
 
 public class maxThreadDriver {
     public static int max(int[] arr) throws InterruptedException {

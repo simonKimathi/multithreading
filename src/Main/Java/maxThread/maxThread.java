@@ -1,4 +1,6 @@
-package Main.Java;
+package Main.Java.maxThread;
+
+import Main.Java.Main;
 
 public class maxThread extends Thread{
     int low,high;
